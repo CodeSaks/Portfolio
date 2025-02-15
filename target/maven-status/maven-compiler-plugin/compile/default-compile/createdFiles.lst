@@ -1,0 +1,6 @@
+com/saksham/portfolio/service/EmailService.class
+com/saksham/portfolio/model/BaseEntity.class
+com/saksham/portfolio/model/ContactMessage.class
+com/saksham/portfolio/controller/ContactController.class
+com/saksham/portfolio/repository/ContactRepository.class
+com/saksham/portfolio/PortfolioApplication.class
